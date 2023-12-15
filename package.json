@@ -1,0 +1,23 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "This is made to demonstrate a movie app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monubucky/MovieApp.git"
+  },
+  "author": "MONIL BAXI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monubucky/MovieApp/issues"
+  },
+  "homepage": "https://github.com/monubucky/MovieApp#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
